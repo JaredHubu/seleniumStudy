@@ -18,6 +18,9 @@ browser.get("https://www.baidu.com")
 
 print("hot-fix")
 
+print("master")
+
+
 # 构造一个搜索的对象
 searchText = searchUtil.Search()
 
