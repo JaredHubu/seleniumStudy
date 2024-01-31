@@ -14,6 +14,9 @@ util = seleniumUtil.SeleniumUtil()
 browser = util.getBrowser()
 browser.get("https://www.baidu.com")
 
+# 当前分支:
+print("hot-fix")
+
 # 构造一个搜索的对象
 searchText = searchUtil.Search()
 
