@@ -16,10 +16,12 @@ browser.get("https://www.baidu.com")
 
 # 当前分支:
 
-print("hot-fix  master")
+
+print("hot-fix master ")
 print("hot-fix")
 
 print("master")
+
 
 
 # 构造一个搜索的对象
